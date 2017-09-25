@@ -1,0 +1,216 @@
+
+/*------------------------------------*\
+  #HOME
+\*------------------------------------*/
+.nav.nav-pills, .jumbotron{
+	background-color: #101c1e;
+	margin: 0;
+}
+
+.nav.nav-pills{
+
+	border-bottom: 1px solid #666;
+}
+.nav.nav-pills a{
+
+	color: #fff;
+}
+
+.nav.nav-pills a:hover{
+
+	color: #000;
+}
+
+.container h1,p{
+
+	color: #fff;
+	padding: 20px;
+}
+
+.container h1{
+font-size: .625em; /*10px*/
+
+}
+
+.container p{
+font-size: 2.5em; /*40px*/
+color: #fff;
+
+}
+
+.container{
+
+	padding: 30px;
+}
+
+.featuredprojects{
+
+	background-color: #2f4f54;
+	padding: 40px;
+}
+
+.project-link {
+	display: block;
+	width: 60%;
+    height: 80px;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+}
+
+.featuredprojects a:hover {
+    width: 60%;
+    text-decoration: none;
+    color: #fff;
+    background: #000;
+}
+
+#viewlink{
+
+	padding-top: 60px;
+	color: #fff;
+}
+
+a #viewlink:hover{
+
+	color: #000;
+}
+.footer{
+	text-align: center;
+	background-color: #101c1e;
+	height: 140px;
+}
+
+.footer p{
+
+	padding-top: 20px;
+	color: #fff;
+}
+
+.icon-facebook-sign{
+
+	margin-right: 25px;
+	background-image: url("../images/Facebook.png");
+}
+.icon-facebook-sign, .icon-twitter-sign{
+
+	font-size: 2.5em; /*40px*/
+}
+.socialmedia{
+
+	padding: 30px;
+}
+
+.socialmedia a{
+
+	text-decoration: none;
+	color: #e6e6e6;
+}
+
+/*------------------------------------*\
+  #ABOUT
+\*------------------------------------*/
+body{
+
+	background-color: #101c1e;
+	font-family: "Open Sans";
+}
+
+.aboutme{
+
+	background-color: white;
+	padding: 30px;
+
+}
+
+.aboutme h1, p{
+
+	color: #000;
+}
+
+.aboutme p:first-child{
+
+	color: #628b9b;
+}
+
+.aboutme p:last-child{
+
+font-size: 1.375em; /*  22px/16=1.375em  */
+width: 70%;
+}
+
+.jumbotron2{
+
+	
+}
+
+/*------------------------------------*\
+  #MY PROJECTS
+\*------------------------------------*/
+.pcontainer{
+
+	background-color: white;
+	width: 100%;
+	padding: 20px;
+
+}
+
+.row{
+	display: block;
+	width: 100%;
+}
+img{
+
+	padding: 10px;
+}
+
+.pcontainer p:first-child {
+
+	color: #628b9b;
+}
+
+
+/*------------------------------------*\
+  #CONTACT
+\*------------------------------------*/
+
+.content{
+
+	padding: 90px 60px 10px 30px;
+	color: #fff;
+}
+
+.content h1{
+
+	font-size: .9375em; /*15px*/
+
+}
+
+.contactfooter{
+	padding: 70px;
+
+}
+
+.contactfooter p:first-child{
+
+	font-size: 1.25em; /*20px*/
+	color: #fff;
+}
+
+.content p{
+
+	font-size: 1.875em; /*30px*/
+	color: #fff;
+}
+
+.contactfooter a{
+
+	text-decoration: none;
+	color: #e6e6e6;
+}
+
+.content h1{
+
+	padding: 20px;
+}
